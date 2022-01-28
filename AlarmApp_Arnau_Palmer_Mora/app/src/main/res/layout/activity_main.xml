@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0B0808"
+    android:orientation="vertical"
+    tools:actionBarNavMode="standard"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button_anadirAlarma"
+        android:layout_width="53dp"
+        android:layout_height="61dp"
+        android:gravity="right"
+        android:text="+"
+        android:textColor="#FF3D00"
+        android:textSize="30sp"
+        app:backgroundTint="#302C2C" />
+
+    <ListView
+        android:id="@+id/listaAl"
+        android:layout_width="411dp"
+        android:layout_height="wrap_content"
+        android:background="#302C2C"
+        android:cacheColorHint="#302C2C"/>
+
+</LinearLayout>

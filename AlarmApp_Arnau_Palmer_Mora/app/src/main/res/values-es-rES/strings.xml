@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ALARMA</string>
+    <string name="limite">LIMITE DE 5 ALARMAS COMPLETADO, NO PUEDES CREAR MAS ALARMAS!</string>
+    <string name="borrar">ESTAS SEGURO QUE QUIERES ELIMINAR LA ALARMA</string>
+    <string name="SI">SI</string>
+    <string name="NO">NO</string>
+    <string name="diasRep">Dias que quieres que se repita la alarma</string>
+    <string name="lunes">LUNES</string>
+    <string name="martes">MARTES</string>
+    <string name="miercoles">MIERCOLES</string>
+    <string name="jueves">JUEVES</string>
+    <string name="viernes">VIERNES</string>
+    <string name="sabado">SABADO</string>
+    <string name="domingo">DOMINGO</string>
+    <string name="faltanHora">EL CAMPO HORA NO SE HA RELLENADO</string>
+    <string name="faltanNombre">EL CAMPO NOMBRE NO SE HA RELLENADO</string>
+    <string name="faltanDias">EL CAMPO HORA NO SE HA RELLENADO</string>
+</resources>
